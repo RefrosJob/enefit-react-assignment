@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply text-body-sm;
+    }
+  @screen sm {
+    body {
+      @apply text-body-md;
+    }
+  }
+  @screen md {
+    body {
+      @apply text-body;
+    }
+  }
+  @screen lg {
+    body {
+        @apply text-body-xl;
+    }
+  }
+}
