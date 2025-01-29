@@ -20,6 +20,10 @@ What I did:
 - Login session retention through localstorage. Not the most secure solution, but it's not even tokenized anyway.
 - Showcase of graphed date per Metering points per user
 
+What I didn't really do that well:
+
+- Error handling is lacking in all the wrong places, especially login screen.
+
 *Could be worse*
 
 ## Running locally
