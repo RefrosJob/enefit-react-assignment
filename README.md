@@ -23,7 +23,7 @@ What I did:
 What I didn't really do that well:
 
 - Error handling is lacking in all the wrong places, especially login screen.
-- Unit tests won me. It complains about not knowing what localstorage is, while it's in jsDon env. I give up.
+- Unit tests won me. It complains about not knowing what localstorage is, while it's in jsDom env. I give up for today.
 
 *Could be worse*
 
