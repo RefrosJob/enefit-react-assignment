@@ -1,5 +1,5 @@
 import React, { ReactNode } from "react";
-import throbber from "/throbber.svg";
+import throbber from "../../../../public/throbber.svg";
 
 interface Props
     extends Omit<
